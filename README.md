@@ -6,7 +6,8 @@ Bash skripty pro automatizaci běžných úkolů. Vhodné pro začátečníky i 
 - **Lehké skripty:** Jednoduché úlohy vhodné pro začátečníky.
 - **Těžké skripty:** Pokročilé úkoly, které vyžadují složitější logiku nebo práci s API.
 - **Vychytávky:** Speciální skripty nebo triky, které zefektivní práci a přidají trochu zábavy.
-- **Apache:** Zakladni scripty na configuraci 
+- **Apache:** Zakladni scripty na automatizaci , velmi casto se pouziva , tak sem ho sem po dlouhem
+               premysleni :-) dal ... , ma i vlastni readme a strukturu projektu.
 
 Projekt je ideální pro každého, kdo chce začít s Bash scripty nebo hledá inspiraci pro vlastní automatizaci.
 
@@ -33,6 +34,7 @@ Bash_Automation_Scripts/
 │   ├── systemd-example.service  # Ukázka služby
 │   ├── ...
 ├── README.md            # Dokumentace projektu
+├── Apache....   # automatizace apache
 ```
 
 
