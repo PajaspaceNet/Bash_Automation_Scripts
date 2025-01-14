@@ -6,6 +6,7 @@ Bash skripty pro automatizaci běžných úkolů. Vhodné pro začátečníky i 
 - **Lehké skripty:** Jednoduché úlohy vhodné pro začátečníky.
 - **Těžké skripty:** Pokročilé úkoly, které vyžadují složitější logiku nebo práci s API.
 - **Vychytávky:** Speciální skripty nebo triky, které zefektivní práci a přidají trochu zábavy.
+- **Apache:** Zakladni scripty na configuraci 
 
 Projekt je ideální pro každého, kdo chce začít s Bash scripty nebo hledá inspiraci pro vlastní automatizaci.
 
