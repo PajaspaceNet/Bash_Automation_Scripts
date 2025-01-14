@@ -1,13 +1,7 @@
 # Bash_Automation_Scrpits
-Bash skriptů pro automatizaci běžných úkolů. Vhodné pro začátečníky i pokročilé uživatele Bash
+Bash skripty pro automatizaci běžných úkolů. Vhodné pro začátečníky i pokročilé uživatele Bash
 
-
-
-
-
-
-# Bash Automation Scripts
-
+...welcome ... vitejte ... :-) </br>
 **Bash Automation Scripts** je kolekce skriptů vytvořených pro automatizaci každodenních úkolů. Skripty jsou rozděleny podle obtížnosti na:
 - **Lehké skripty:** Jednoduché úlohy vhodné pro začátečníky.
 - **Těžké skripty:** Pokročilé úkoly, které vyžadují složitější logiku nebo práci s API.
