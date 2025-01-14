@@ -2,7 +2,7 @@
 
 # Kontrola, zda je figlet nainstalovaný
 if ! command -v figlet &> /dev/null; then
-    echo "Error: figlet is not installed. Install it with 'sudo apt install figlet' (Debian/Ubuntu) or 'sudo yum install figlet' (Red Hat/CentOS)."
+    echo "Error: figlet is not installed. Install 'sudo yum install figlet' (Red Hat/CentOS)."
     exit 1
 fi
 
