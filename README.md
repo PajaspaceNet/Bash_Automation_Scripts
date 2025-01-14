@@ -65,7 +65,7 @@ Jednoduché úkoly, které lze snadno přizpůsobit:
 - **`clean_logs.sh`:** Odstranění souborů starších než X dní.
 - **`rename_files.sh`:** Automatické přejmenování souborů podle šablony.
 
-### Těžké skripty (`advanced/`)
+### Advanced skripty (`advanced/`)
 Složitější úlohy s větší přidanou hodnotou:
 - **`analyze_logs.sh`:** Filtruje logy podle zadaných parametrů.
 - **`api_fetch.sh`:** Načítá data z API a ukládá je do souboru.
