@@ -120,7 +120,8 @@ Pro skripty, které běží nepřetržitě nebo se spouští při startu systém
 ---
 
 ## 📜 Licence
-Tento projekt je licencován pod licencí [MIT](LICENSE). Můžeš ho volně používat, upravovat a sdílet.
+Tento projekt je licencován pod DWDFW - Do What Do you .... You Want. Můžeš ho volně používat, upravovat a sdílet.
+Kdyz sem nekdo prida script... budu jen rad :-)
 
 ---
 
