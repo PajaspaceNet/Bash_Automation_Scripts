@@ -79,7 +79,7 @@ Tipy a triky pro efektivní práci:
 
 ---
 
-## 📖 Příklady použití vice v adresari `examples/`  
+## 📖 Příklady použití -  `examples/`  
 
 ### Cron úlohy (`cron-examples.md`)
 Některé skripty lze snadno naplánovat pomocí cron. Například:
