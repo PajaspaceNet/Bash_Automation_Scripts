@@ -17,23 +17,23 @@ Projekt je ideální pro každého, kdo chce začít s Bash scripty nebo hledá 
 
 ```
 Bash_Automation_Scripts/
-├── easy/                # Lehké skripty
-│   ├── backup.sh        # Zálohování složky
-│   ├── clean_logs.sh    # Čištění starých logů
-│   ├── ...
-├── advanced/            # Pokročilé skripty
-│   ├── analyze_logs.sh  # Analýza logů
-│   ├── api_fetch.sh     # Práce s API
-│   ├── ...
-├── tricks/              # Různé vychytávky
-│   ├── colorful_output.sh  # Barevný výstup v terminálu
-│   ├── dynamic_alias.sh    # Dynamické aliasy
-│   ├── ...
-├── examples/            # Ukázky použití (cron, systemd)
+│           ├──   easy/                 # Lehké skripty
+│                  ├── backup.sh        # Zálohování složky
+│                  ├── clean_logs.sh    # Čištění starých logů
+│                  ├── ...
+├── scripts ├──  advanced/            # Pokročilé skripty
+│                  ├── analyze_logs.sh  # Analýza logů
+│                  ├── api_fetch.sh     # Práce s API
+│                  ├── ...
+│                  ├── tricks/              # Různé vychytávky
+│                  ├── colorful_output.sh  # Barevný výstup v terminálu
+│                  ├── dynamic_alias.sh    # Dynamické aliasy
+│                  ├── ...
+├── examples/  # Ukázky použití (cron, systemd)
 │   ├── cron-examples.md    # Ukázky pro cron
 │   ├── systemd-example.service  # Ukázka služby
 │   ├── ...
-├── README.md            # Dokumentace projektu
+├── README.md    # Dokumentace projektu
 ├── Apache....   # automatizace apache
 ```
 
