@@ -1,5 +1,18 @@
 ## 🔹 Red Hat Server – Rychlý checklist problémů
 
+
+Poznámky <br>
+
+Konfigurace služeb → většinou v /etc (např. /etc/httpd/, /etc/ssh/).<br>
+
+Logy → v /var/log.<br>
+
+Programy → systémové /bin a /sbin, uživatelské /usr/bin.<br>
+
+Domovské adresáře → /home/uživatel, root má /root.<br>
+
+Temporary files → /tmp a /var/tmp<br>
+
 ### 1️⃣ Systém a aktualizace
 
 * [ ] SELinux blokuje služby → `sestatus`, `audit2allow`.
