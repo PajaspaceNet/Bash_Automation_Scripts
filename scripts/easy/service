@@ -1,4 +1,4 @@
 sudo systemctl daemon-reload
 sudo systemctl enable wildfly
 sudo systemctl restart wildfly
-sudo systemctl status wildfl
+sudo systemctl status wildfly
